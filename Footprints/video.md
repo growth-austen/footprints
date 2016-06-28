@@ -1,0 +1,15 @@
+"Powered by MediaShare"
+"Powered by clipbucket"
+"Powered by VidiScript.com"
+"Powered by PHPMotion"
+"Powered by ClipShare"
+"Powered by iVidPlay"
+"Powered by iSoftScripts.com"
+"Powered by VShare"
+"Powered by Video CMS"
+"Powered by PHP Melody"
+"Powered by ClipBucket"
+"Powered by SkaDate" - online dating and social networking software combined
+"Powered by Sharemixer" - low cost video sharing solution a la Youtube
+"Powered by Clipshare"
+"Powered by SocialMedia.com"
